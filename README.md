@@ -12,3 +12,6 @@ Registro e login com nodejs + mongodb
 - Heroku + mongodb atlas
 - Servidor local
 - onde quiser =D
+
+## Rotas autenticadas:
+Para utilizar é nescessario passar no header da requisição o token com o valor do token recebido ao logar com usuario.
